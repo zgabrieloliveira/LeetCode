@@ -1,0 +1,1 @@
+{"name":"Local: exe1176","url":"c:\\Users\\xgabr\\OneDrive - ufu.br\\GSI 002\\BEECROWD\\exe1176.c","tests":[{"id":1644284819121,"input":"3\n0\n4\n2","output":"Fib(0) = 0\nFib(4) = 3\nFib(2) = 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\xgabr\\OneDrive - ufu.br\\GSI 002\\BEECROWD\\exe1176.c","group":"local","local":true}
